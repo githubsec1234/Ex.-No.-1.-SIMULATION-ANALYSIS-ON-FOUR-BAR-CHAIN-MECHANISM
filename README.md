@@ -57,8 +57,8 @@
 
 
 
-### Name: S.Navadeep
-### Register Number: 24900883
+### Name: S HEMANTH KUMAR
+### Register Number: 24011247
 
 ## RESULT:
  ### Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
